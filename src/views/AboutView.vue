@@ -126,7 +126,7 @@ export default {
       <section
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
-          <img class="w-[500px] rounded-full mb-3 fadein-up"
+          <img class="w-[450px] rounded-full mb-3 fadein-up"
             src="murcat.png" alt="Foto">
         </div>
         <div class="md:w-7/12">
