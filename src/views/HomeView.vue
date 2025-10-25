@@ -3,7 +3,7 @@
     class="mt-10 md:mt-1 flex flex-col-reverse gap-8 items-center md:flex-row md:gap-16 md:justify-center min-h-[65vh] md:min-h-[80vh]">
     <div class="space-y-2 text-center md:text-left px-10">
       <p class="text-amber-200">Hello World, I'm</p>
-      <h1 class="text-4xl font-bold md:text-5xl text-white fadein-up">Reno Ghifari</h1>
+      <h1 class="text-4xl font-bold md:text-5xl text-white fadein-up">avarithh</h1>
       <div class="py-2">
         <h1
           class="typewrite text-xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-yellow-500 md:text-2xl fadein-up"
@@ -13,7 +13,7 @@
       </div>
       <p class="text-white pr-4 fade-in-from-left">Welcome to My Portfolio Website. <span class="wave">👋🏼</span></p>
       <br>
-      <a href="https://drive.google.com/file/d/1HjoQ6PpqQ1UHY2jmvaZqsXew3_m-auJ2/view?usp=drive_link">
+      <a href="https://drive.google.com/file/d/1qSJJzEnf7hqz6-GEGpNEJBRnRFggPzcm/view?usp=sharing">
       <button
         class="fadein-bot fade-500 flex items-center py-2 px-4 mx-auto text-sm font-medium rounded-lg border transition duration-300 md:py-2.5 md:px-5 md:mx-0 text-amber-200 border-amber-200 hover:bg-amber-200 hover:bg-opacity-10 bg-transparent focus:outline-none w-fit"><svg
           xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="mr-2 w-4 h-4">
@@ -28,7 +28,7 @@
       </a>
     </div>
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="00" height="00" decoding="async" data-nimg="1"
-        class="w-[300px] md:h-auto rounded-full border-4 border-amber-200 pict" src="murcat.png">
+        class="w-[300px] md:h-auto rounded-full border-4 border-amber-200 pict" src="hypers.gif">
     </div>
 
     

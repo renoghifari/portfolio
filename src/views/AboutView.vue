@@ -127,11 +127,11 @@ export default {
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
           <img class="w-[450px] rounded-full mb-3 fadein-up"
-            src="murcat.png" alt="Foto">
+            src="hypers.gif" alt="Foto">
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; I'm Reno Ghifari, a versatile Full-Stack Developer, Web 3 Developer, and UI/UX Designer. My expertise lies in building comprehensive web solutions that not only function seamlessly but also deliver exceptional user experiences.
+            &nbsp; &nbsp; &nbsp; I'm avarithh, a versatile Full-Stack Developer, Web 3 Developer, and UI/UX Designer. My expertise lies in building comprehensive web solutions that not only function seamlessly but also deliver exceptional user experiences.
 
 With a strong foundation in both front-end and back-end development, I have a deep understanding of the full development cycle. I combine this technical knowledge with a keen eye for design, ensuring that every project I work on is as intuitive and user-friendly as it is powerful and efficient.
 
